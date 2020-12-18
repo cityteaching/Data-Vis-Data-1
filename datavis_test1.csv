@@ -1,4 +1,4 @@
-﻿Country,id,Food Source,Food Source percentage,Recovered,Mortality
+﻿Country,id,Source,Food _source_percentage,Recovered,Mortality
 Cabo Verde, CPV,Alcoholic Beverages,1.2525,97,1
 Cabo Verde, CPV,Animal Products,8.5288,97,1
 Cabo Verde, CPV,Animal fats,1.0537,97,1
