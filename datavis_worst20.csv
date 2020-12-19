@@ -1,21 +1,241 @@
-﻿Country,id,Alcoholic Beverages,Animal Products,Animal fats,"Aquatic Products, Other",Cereals - Excluding Beer,Eggs,"Fish, Seafood",Fruits - Excluding Wine,Meat,Milk - Excluding Butter,Miscellaneous,Offals,Oilcrops,Pulses,Spices,Starchy Roots,Stimulants,Sugar Crops,Sugar & Sweeteners,Treenuts,Vegetal Products,Vegetable Oils,Vegetables,RecoveredOld,Cases,Deaths,Recovered,Active,Population,Recovered,Mortality
-Belgium, BEL,2.3089,14.1587,4.7771,0,13.0441,0.69,0.5971,1.38,3.2776,4.6311,0,0.1858,0.2389,0.2919,0.0929,2.1895,0.1194,0,6.8073,0.5573,35.8413,7.0727,1.7383,0,618204.00,18371.00,"42,402","557,431","11,613,026",7,3
-Cyprus, CYP,1.6826,12.8681,0.7075,0,15.392,0.5927,0.8604,1.9312,5.9847,4.5698,0.631,0.1338,1.0134,0.5354,0.0765,0.9943,1.0325,0,4.4933,0.4015,37.1511,7.4379,1.5105,0.170422535,16190.00,85.00,"2,057","14,048","1,211,427",13,1
-France, FRA,1.9955,16.9899,3.6818,0,13.8983,0.6183,0.8994,1.6582,6.1551,5.3963,0.0562,0.2389,0.3513,0.2389,0.0422,1.321,0.4356,0,5.5509,0.4216,33.0101,6.0568,0.9837,0.282322144,2427316.00,59619.00,"181,506","2,186,191","65,340,640",7,2
-Greece, GRC,1.0285,11.4771,0.7006,0,14.4731,0.4919,0.5068,2.2954,4.1586,5.4255,0.164,0.1938,0.8794,0.6707,0.0596,1.5203,0.4919,0,4.2629,1.0434,38.5303,10.1654,1.4607,0.21564486,128710.00,3948.00,"9,989","114,773","10,399,263",8,3
-Serbia, SRB,2.5678,13.1419,1.1056,0,20.0428,0.6419,0.2318,2.1041,6.2946,4.6541,0.0178,0.214,0.3923,0.4458,0.0535,1.2482,0.5884,0,5.2247,0.2853,36.8581,2.6748,1.2126,0,287730.00,2529.00,"31,536","253,665","8,720,936",11,1
-Belize, BLZ,1.5199,9.1752,2.6135,0,18.9064,0.2966,0.3707,2.5209,3.9481,1.8906,0.519,0.0371,0.6117,2.2799,0.0371,0.5005,0.2966,0,7.6367,0.1297,40.8526,5.1158,0.7414,1.053460621,9791.00,213.00,"4,779","4,799","400,938",49,2
-Central African Republic, CAF,0.5402,7.3927,0.7393,0,8.9565,0.0569,0.4265,1.905,4.9758,0.8814,0.0284,0.3412,2.3031,2.2747,0,19.6759,0.0853,0,1.706,0,42.5931,4.8052,0.3128,0.039834369,4936.00,63.00,"1,924","2,949","4,868,302",39,1
-French Polynesia, PYF,1.4879,15.0676,1.8129,0,15.8885,0.496,1.6419,1.0433,8.1409,2.7364,1.1459,0.2223,2.4457,0.325,0.0171,1.9155,0.667,0.1368,3.5574,0.1539,34.941,5.3019,0.8551,NA,16118.00,101.00,"4,842","11,175","281,661",30,1
-Grenada, GRD,1.9979,12.2581,0.7284,0,13.7565,0.7284,1.1446,3.5588,5.7648,3.8085,0.3538,0.0832,1.1863,1.3111,0.6452,1.1446,0.3122,0,7.9084,0.0416,37.7523,4.9116,0.6035,0.036283186,85.00,,41,44,"112,765",48,NA
-Honduras, HND,0.7052,6.7385,0.6464,0,23.3301,0.2938,0.0979,1.5475,2.8991,2.7032,0.1567,0.0784,0.1763,2.3898,0.0196,0.2938,0.2351,0,8.5406,0.0392,43.2517,5.4848,0.3722,0.524006488,115474.00,3021.00,"53,499","58,954","9,976,991",46,3
-Hungary, HUN,3.0432,16.0682,5.28,0,13.4206,0.8065,0.1978,1.0347,5.9038,3.8649,0.0152,0,0.1978,0.4108,0.1522,1.339,0.426,0,5.3408,0.0304,33.9318,7.4863,1.0499,0.845152043,291549.00,7538.00,"86,954","197,057","9,648,909",30,3
-Ireland, IRL,3.2284,14.0167,2.9997,0,14.4471,0.4977,0.7398,1.8832,5.0982,4.5601,0.0807,0.1211,0.3901,0.3228,0.0807,1.7487,0.7129,0,6.0533,0.3497,35.9833,5.4479,1.2376,0.4669998,77678.00,2143.00,"23,364","52,171","4,963,234",30,3
-Lithuania, LTU,3.3192,15.4409,2.6612,0,15.7187,0.8481,0.9651,1.1698,5.7757,5.0592,0.0439,0.1316,0.3071,1.2867,0.1608,1.3306,0.234,0,6.1705,0.3217,34.5518,3.5093,0.9943,1.394309234,103028.00,933.00,"45,113","56,982","2,704,423",44,1
-Uganda, UGA,1.7949,3.8462,0.1865,0,13.8462,0.0699,0.4895,6.6667,1.4918,1.5152,0.0233,0.0932,1.7016,5.5711,0.0233,8.7413,0.0233,0,2.6573,0,46.1538,4.6154,0.4895,0.021689513,29361.00,228.00,"10,172","18,961","46,395,316",35,1
-United Republic of Tanzania, TZA,1.0643,2.7337,0.313,0,20.409,0.0209,0.2922,2.5042,0.9182,1.1895,0,0,2.2329,4.8831,0.0626,7.5751,0.0209,0,2.4207,0.0835,47.2663,5.3631,0.6469,0.000306358,509.00,21.00,183,305,"60,507,133",36,4
-Mongolia, MNG,1.5398,20.3754,2.0038,0,18.7724,0.3375,0.0211,0.3375,10.5674,6.6231,0.1898,0.8015,0.0633,0.0844,0,1.2234,0.7804,0,2.9319,0.0422,29.6351,2.9319,0.7382,0.011425171,941.00,,473,468,"3,302,544",50,NA
-Albania, ALB,0.912,16.093,1.0591,0,16.2107,0.8091,0.1471,3.8982,3.8688,9.9441,0.0588,0.2648,1.0886,0.8091,0,1.2651,0.2501,0,3.4422,0.3972,33.907,2.8244,2.7508,0.874559549,51424.00,1055.00,"26,898","23,471","2,876,333",52,2
-Angola, AGO,1.9388,4.6927,0.2644,0,18.3521,0.0441,0.8372,2.3133,2.9302,0.5067,0.0661,0.1102,1.0795,1.4981,0,12.6239,0.0441,0,2.7539,0,45.3184,4.2741,0.3525,0.027439887,16484.00,382.00,"9,266","6,836","33,329,560",56,2
-Bulgaria, BGR,3.6782,12.29,2.458,0,17.931,0.5836,0.2829,1.7683,4.3148,4.3855,0.0884,0.2653,0.6366,0.3537,1.2202,0.9019,0.2122,0,4.6508,0.1415,37.7188,5.252,0.8665,1.235426592,188288.00,6339.00,"93,728","88,221","6,923,955",50,3
-Niger, NER,0.0194,3.4122,0.4847,0,31.0585,0.0194,0.0775,0.8337,1.0857,1.6479,0.0194,0.1163,3.2571,6.3009,0.1357,0.6979,0.0194,0,0.6786,0,46.5878,1.8806,1.6673,0.005349539,2506.00,84.00,"1,373","1,049","24,601,794",55,3
+﻿Country,id,Source,Food_source_percentage,Recovered
+Belgium, BEL,Alcoholic Beverages,2.3089,7
+Belgium, BEL,Animal Products,14.1587,7
+Belgium, BEL,Animal fats,4.7771,7
+Belgium, BEL,Cereals - Excluding Beer,13.0441,7
+Belgium, BEL,Fruits - Excluding Wine,1.38,7
+Belgium, BEL,Meat,3.2776,7
+Belgium, BEL,Milk - Excluding Butter,4.6311,7
+Belgium, BEL,Oilcrops,0.2389,7
+Belgium, BEL,Starchy Roots,2.1895,7
+Belgium, BEL,Sugar & Sweeteners,6.8073,7
+Belgium, BEL,Vegetal Products,35.8413,7
+Belgium, BEL,Vegetable Oils,7.0727,7
+Cyprus, CYP,Alcoholic Beverages,1.6826,13
+Cyprus, CYP,Animal Products,12.8681,13
+Cyprus, CYP,Animal fats,0.7075,13
+Cyprus, CYP,Cereals - Excluding Beer,15.392,13
+Cyprus, CYP,Fruits - Excluding Wine,1.9312,13
+Cyprus, CYP,Meat,5.9847,13
+Cyprus, CYP,Milk - Excluding Butter,4.5698,13
+Cyprus, CYP,Oilcrops,1.0134,13
+Cyprus, CYP,Starchy Roots,0.9943,13
+Cyprus, CYP,Sugar & Sweeteners,4.4933,13
+Cyprus, CYP,Vegetal Products,37.1511,13
+Cyprus, CYP,Vegetable Oils,7.4379,13
+France, FRA,Alcoholic Beverages,1.9955,7
+France, FRA,Animal Products,16.9899,7
+France, FRA,Animal fats,3.6818,7
+France, FRA,Cereals - Excluding Beer,13.8983,7
+France, FRA,Fruits - Excluding Wine,1.6582,7
+France, FRA,Meat,6.1551,7
+France, FRA,Milk - Excluding Butter,5.3963,7
+France, FRA,Oilcrops,0.3513,7
+France, FRA,Starchy Roots,1.321,7
+France, FRA,Sugar & Sweeteners,5.5509,7
+France, FRA,Vegetal Products,33.0101,7
+France, FRA,Vegetable Oils,6.0568,7
+Greece, GRC,Alcoholic Beverages,1.0285,8
+Greece, GRC,Animal Products,11.4771,8
+Greece, GRC,Animal fats,0.7006,8
+Greece, GRC,Cereals - Excluding Beer,14.4731,8
+Greece, GRC,Fruits - Excluding Wine,2.2954,8
+Greece, GRC,Meat,4.1586,8
+Greece, GRC,Milk - Excluding Butter,5.4255,8
+Greece, GRC,Oilcrops,0.8794,8
+Greece, GRC,Starchy Roots,1.5203,8
+Greece, GRC,Sugar & Sweeteners,4.2629,8
+Greece, GRC,Vegetal Products,38.5303,8
+Greece, GRC,Vegetable Oils,10.1654,8
+Serbia, SRB,Alcoholic Beverages,2.5678,11
+Serbia, SRB,Animal Products,13.1419,11
+Serbia, SRB,Animal fats,1.1056,11
+Serbia, SRB,Cereals - Excluding Beer,20.0428,11
+Serbia, SRB,Fruits - Excluding Wine,2.1041,11
+Serbia, SRB,Meat,6.2946,11
+Serbia, SRB,Milk - Excluding Butter,4.6541,11
+Serbia, SRB,Oilcrops,0.3923,11
+Serbia, SRB,Starchy Roots,1.2482,11
+Serbia, SRB,Sugar & Sweeteners,5.2247,11
+Serbia, SRB,Vegetal Products,36.8581,11
+Serbia, SRB,Vegetable Oils,2.6748,11
+Belize, BLZ,Alcoholic Beverages,1.5199,49
+Belize, BLZ,Animal Products,9.1752,49
+Belize, BLZ,Animal fats,2.6135,49
+Belize, BLZ,Cereals - Excluding Beer,18.9064,49
+Belize, BLZ,Fruits - Excluding Wine,2.5209,49
+Belize, BLZ,Meat,3.9481,49
+Belize, BLZ,Milk - Excluding Butter,1.8906,49
+Belize, BLZ,Oilcrops,0.6117,49
+Belize, BLZ,Starchy Roots,0.5005,49
+Belize, BLZ,Sugar & Sweeteners,7.6367,49
+Belize, BLZ,Vegetal Products,40.8526,49
+Belize, BLZ,Vegetable Oils,5.1158,49
+Central African Republic, CAF,Alcoholic Beverages,0.5402,39
+Central African Republic, CAF,Animal Products,7.3927,39
+Central African Republic, CAF,Animal fats,0.7393,39
+Central African Republic, CAF,Cereals - Excluding Beer,8.9565,39
+Central African Republic, CAF,Fruits - Excluding Wine,1.905,39
+Central African Republic, CAF,Meat,4.9758,39
+Central African Republic, CAF,Milk - Excluding Butter,0.8814,39
+Central African Republic, CAF,Oilcrops,2.3031,39
+Central African Republic, CAF,Starchy Roots,19.6759,39
+Central African Republic, CAF,Sugar & Sweeteners,1.706,39
+Central African Republic, CAF,Vegetal Products,42.5931,39
+Central African Republic, CAF,Vegetable Oils,4.8052,39
+French Polynesia, PYF,Alcoholic Beverages,1.4879,30
+French Polynesia, PYF,Animal Products,15.0676,30
+French Polynesia, PYF,Animal fats,1.8129,30
+French Polynesia, PYF,Cereals - Excluding Beer,15.8885,30
+French Polynesia, PYF,Fruits - Excluding Wine,1.0433,30
+French Polynesia, PYF,Meat,8.1409,30
+French Polynesia, PYF,Milk - Excluding Butter,2.7364,30
+French Polynesia, PYF,Oilcrops,2.4457,30
+French Polynesia, PYF,Starchy Roots,1.9155,30
+French Polynesia, PYF,Sugar & Sweeteners,3.5574,30
+French Polynesia, PYF,Vegetal Products,34.941,30
+French Polynesia, PYF,Vegetable Oils,5.3019,30
+Grenada, GRD,Alcoholic Beverages,1.9979,48
+Grenada, GRD,Animal Products,12.2581,48
+Grenada, GRD,Animal fats,0.7284,48
+Grenada, GRD,Cereals - Excluding Beer,13.7565,48
+Grenada, GRD,Fruits - Excluding Wine,3.5588,48
+Grenada, GRD,Meat,5.7648,48
+Grenada, GRD,Milk - Excluding Butter,3.8085,48
+Grenada, GRD,Oilcrops,1.1863,48
+Grenada, GRD,Starchy Roots,1.1446,48
+Grenada, GRD,Sugar & Sweeteners,7.9084,48
+Grenada, GRD,Vegetal Products,37.7523,48
+Grenada, GRD,Vegetable Oils,4.9116,48
+Honduras, HND,Alcoholic Beverages,0.7052,46
+Honduras, HND,Animal Products,6.7385,46
+Honduras, HND,Animal fats,0.6464,46
+Honduras, HND,Cereals - Excluding Beer,23.3301,46
+Honduras, HND,Fruits - Excluding Wine,1.5475,46
+Honduras, HND,Meat,2.8991,46
+Honduras, HND,Milk - Excluding Butter,2.7032,46
+Honduras, HND,Oilcrops,0.1763,46
+Honduras, HND,Starchy Roots,0.2938,46
+Honduras, HND,Sugar & Sweeteners,8.5406,46
+Honduras, HND,Vegetal Products,43.2517,46
+Honduras, HND,Vegetable Oils,5.4848,46
+Hungary, HUN,Alcoholic Beverages,3.0432,30
+Hungary, HUN,Animal Products,16.0682,30
+Hungary, HUN,Animal fats,5.28,30
+Hungary, HUN,Cereals - Excluding Beer,13.4206,30
+Hungary, HUN,Fruits - Excluding Wine,1.0347,30
+Hungary, HUN,Meat,5.9038,30
+Hungary, HUN,Milk - Excluding Butter,3.8649,30
+Hungary, HUN,Oilcrops,0.1978,30
+Hungary, HUN,Starchy Roots,1.339,30
+Hungary, HUN,Sugar & Sweeteners,5.3408,30
+Hungary, HUN,Vegetal Products,33.9318,30
+Hungary, HUN,Vegetable Oils,7.4863,30
+Ireland, IRL,Alcoholic Beverages,3.2284,30
+Ireland, IRL,Animal Products,14.0167,30
+Ireland, IRL,Animal fats,2.9997,30
+Ireland, IRL,Cereals - Excluding Beer,14.4471,30
+Ireland, IRL,Fruits - Excluding Wine,1.8832,30
+Ireland, IRL,Meat,5.0982,30
+Ireland, IRL,Milk - Excluding Butter,4.5601,30
+Ireland, IRL,Oilcrops,0.3901,30
+Ireland, IRL,Starchy Roots,1.7487,30
+Ireland, IRL,Sugar & Sweeteners,6.0533,30
+Ireland, IRL,Vegetal Products,35.9833,30
+Ireland, IRL,Vegetable Oils,5.4479,30
+Lithuania, LTU,Alcoholic Beverages,3.3192,44
+Lithuania, LTU,Animal Products,15.4409,44
+Lithuania, LTU,Animal fats,2.6612,44
+Lithuania, LTU,Cereals - Excluding Beer,15.7187,44
+Lithuania, LTU,Fruits - Excluding Wine,1.1698,44
+Lithuania, LTU,Meat,5.7757,44
+Lithuania, LTU,Milk - Excluding Butter,5.0592,44
+Lithuania, LTU,Oilcrops,0.3071,44
+Lithuania, LTU,Starchy Roots,1.3306,44
+Lithuania, LTU,Sugar & Sweeteners,6.1705,44
+Lithuania, LTU,Vegetal Products,34.5518,44
+Lithuania, LTU,Vegetable Oils,3.5093,44
+Uganda, UGA,Alcoholic Beverages,1.7949,35
+Uganda, UGA,Animal Products,3.8462,35
+Uganda, UGA,Animal fats,0.1865,35
+Uganda, UGA,Cereals - Excluding Beer,13.8462,35
+Uganda, UGA,Fruits - Excluding Wine,6.6667,35
+Uganda, UGA,Meat,1.4918,35
+Uganda, UGA,Milk - Excluding Butter,1.5152,35
+Uganda, UGA,Oilcrops,1.7016,35
+Uganda, UGA,Starchy Roots,8.7413,35
+Uganda, UGA,Sugar & Sweeteners,2.6573,35
+Uganda, UGA,Vegetal Products,46.1538,35
+Uganda, UGA,Vegetable Oils,4.6154,35
+United Republic of Tanzania, TZA,Alcoholic Beverages,1.0643,36
+United Republic of Tanzania, TZA,Animal Products,2.7337,36
+United Republic of Tanzania, TZA,Animal fats,0.313,36
+United Republic of Tanzania, TZA,Cereals - Excluding Beer,20.409,36
+United Republic of Tanzania, TZA,Fruits - Excluding Wine,2.5042,36
+United Republic of Tanzania, TZA,Meat,0.9182,36
+United Republic of Tanzania, TZA,Milk - Excluding Butter,1.1895,36
+United Republic of Tanzania, TZA,Oilcrops,2.2329,36
+United Republic of Tanzania, TZA,Starchy Roots,7.5751,36
+United Republic of Tanzania, TZA,Sugar & Sweeteners,2.4207,36
+United Republic of Tanzania, TZA,Vegetal Products,47.2663,36
+United Republic of Tanzania, TZA,Vegetable Oils,5.3631,36
+Mongolia, MNG,Alcoholic Beverages,1.5398,50
+Mongolia, MNG,Animal Products,20.3754,50
+Mongolia, MNG,Animal fats,2.0038,50
+Mongolia, MNG,Cereals - Excluding Beer,18.7724,50
+Mongolia, MNG,Fruits - Excluding Wine,0.3375,50
+Mongolia, MNG,Meat,10.5674,50
+Mongolia, MNG,Milk - Excluding Butter,6.6231,50
+Mongolia, MNG,Oilcrops,0.0633,50
+Mongolia, MNG,Starchy Roots,1.2234,50
+Mongolia, MNG,Sugar & Sweeteners,2.9319,50
+Mongolia, MNG,Vegetal Products,29.6351,50
+Mongolia, MNG,Vegetable Oils,2.9319,50
+Albania, ALB,Alcoholic Beverages,0.912,52
+Albania, ALB,Animal Products,16.093,52
+Albania, ALB,Animal fats,1.0591,52
+Albania, ALB,Cereals - Excluding Beer,16.2107,52
+Albania, ALB,Fruits - Excluding Wine,3.8982,52
+Albania, ALB,Meat,3.8688,52
+Albania, ALB,Milk - Excluding Butter,9.9441,52
+Albania, ALB,Oilcrops,1.0886,52
+Albania, ALB,Starchy Roots,1.2651,52
+Albania, ALB,Sugar & Sweeteners,3.4422,52
+Albania, ALB,Vegetal Products,33.907,52
+Albania, ALB,Vegetable Oils,2.8244,52
+Angola, AGO,Alcoholic Beverages,1.9388,56
+Angola, AGO,Animal Products,4.6927,56
+Angola, AGO,Animal fats,0.2644,56
+Angola, AGO,Cereals - Excluding Beer,18.3521,56
+Angola, AGO,Fruits - Excluding Wine,2.3133,56
+Angola, AGO,Meat,2.9302,56
+Angola, AGO,Milk - Excluding Butter,0.5067,56
+Angola, AGO,Oilcrops,1.0795,56
+Angola, AGO,Starchy Roots,12.6239,56
+Angola, AGO,Sugar & Sweeteners,2.7539,56
+Angola, AGO,Vegetal Products,45.3184,56
+Angola, AGO,Vegetable Oils,4.2741,56
+Bulgaria, BGR,Alcoholic Beverages,3.6782,50
+Bulgaria, BGR,Animal Products,12.29,50
+Bulgaria, BGR,Animal fats,2.458,50
+Bulgaria, BGR,Cereals - Excluding Beer,17.931,50
+Bulgaria, BGR,Fruits - Excluding Wine,1.7683,50
+Bulgaria, BGR,Meat,4.3148,50
+Bulgaria, BGR,Milk - Excluding Butter,4.3855,50
+Bulgaria, BGR,Oilcrops,0.6366,50
+Bulgaria, BGR,Starchy Roots,0.9019,50
+Bulgaria, BGR,Sugar & Sweeteners,4.6508,50
+Bulgaria, BGR,Vegetal Products,37.7188,50
+Bulgaria, BGR,Vegetable Oils,5.252,50
+Niger, NER,Alcoholic Beverages,0.0194,55
+Niger, NER,Animal Products,3.4122,55
+Niger, NER,Animal fats,0.4847,55
+Niger, NER,Cereals - Excluding Beer,31.0585,55
+Niger, NER,Fruits - Excluding Wine,0.8337,55
+Niger, NER,Meat,1.0857,55
+Niger, NER,Milk - Excluding Butter,1.6479,55
+Niger, NER,Oilcrops,3.2571,55
+Niger, NER,Starchy Roots,0.6979,55
+Niger, NER,Sugar & Sweeteners,0.6786,55
+Niger, NER,Vegetal Products,46.5878,55
+Niger, NER,Vegetable Oils,1.8806,55
