@@ -1,0 +1,151 @@
+﻿Country,id,Recovered,Mortality,Obesity
+Afghanistan, AFG,77,4,4.5
+Albania, ALB,52,2,22.3
+Algeria, DZA,66,3,26.6
+Angola, AGO,56,2,6.8
+Antigua and Barbuda, ATG,93,3,19.1
+Argentina, ARG,89,3,28.5
+Armenia, ARM,86,2,20.9
+Australia, AUS,91,3,30.4
+Austria, AUT,88,1,21.9
+Azerbaijan, AZE,66,1,19.9
+Bahamas, BHS,79,2,32.1
+Bangladesh, BGD,87,1,3.4
+Barbados, BRB,91,2,24.8
+Belarus, BLR,87,1,26.6
+Belgium, BEL,7,3,24.5
+Belize, BLZ,49,2,22.4
+Benin, BEN,94,1,8.2
+Bolivia, BOL,86,6,18.7
+Bosnia and Herzegovina, BIH,67,3,19.4
+Botswana, BWA,81,0,16.1
+Brazil, BRA,87,3,22.3
+Bulgaria, BGR,50,3,27.4
+Burkina Faso, BFA,72,2,4.5
+Cabo Verde, CPV,97,1,10.6
+Cameroon, CMR,94,2,9.5
+Canada, CAN,82,3,31.3
+Central African Republic, CAF,39,1,6.3
+Chad, TCD,89,6,4.8
+Chile, CHL,95,3,28.8
+China, CHN,94,5,6.6
+Colombia, COL,91,3,22.1
+Congo, COG,80,2,8.4
+Costa Rica, CRI,80,1,25.7
+Cote d'Ivoire, CIV,98,1,9
+Croatia, HRV,86,2,27.1
+Cuba, CUB,90,1,26.7
+Cyprus, CYP,13,1,22.6
+Czechia, CZE,86,2,28.5
+Denmark, DNK,69,1,21.3
+Djibouti, DJI,98,1,12.2
+Dominican Republic, DOM,78,2,26.9
+Ecuador, ECU,87,7,19.3
+Egypt, EGY,86,6,31.1
+El Salvador, SLV,91,3,22.7
+Estonia, EST,63,1,23.8
+Eswatini, SWZ,93,2,13.5
+Ethiopia, ETH,84,2,3.6
+Fiji, FJI,91,4,30
+Finland, FIN,70,2,24.9
+France, FRA,7,2,23.2
+Gabon, GAB,98,1,13.4
+Gambia, GMB,97,3,8.7
+Georgia, GEO,84,1,23.3
+Germany, DEU,73,2,25.7
+Ghana, GHA,98,1,9.7
+Greece, GRC,8,3,27.4
+Guatemala, GTM,91,3,18.8
+Guinea, GIN,95,1,6.6
+Guinea-Bissau, GNB,97,2,8.2
+Guyana, GUY,86,3,19.2
+Haiti, HTI,86,2,20.5
+Honduras, HND,46,3,19.4
+Hungary, HUN,30,3,28.6
+Iceland, ISL,97,1,23.1
+India, IND,95,1,3.8
+Indonesia, IDN,82,3,6.9
+Iran (Islamic Republic of), IRN,75,5,25.5
+Iraq, IRQ,89,2,27.4
+Ireland, IRL,30,3,26.9
+Palestine, PAL,79,1,26.7
+Italy, ITA,63,4,22.9
+Jamaica, JAM,71,2,24.4
+Japan, JPN,85,1,4.4
+Jordan, JOR,87,1,33.4
+Kazakhstan, KAZ,89,1,21.3
+Kenya, KEN,80,2,6
+"Korea, South", KOR,72,1,4.9
+Kuwait, KWT,97,1,37
+Kyrgyzstan, KGZ,92,2,15.4
+Latvia, LVA,67,1,25.7
+Lebanon, LBN,70,1,31.3
+Lesotho, LSO,60,2,13.5
+Liberia, LBR,79,5,8.6
+Lithuania, LTU,44,1,28.4
+Luxembourg, LUX,80,1,24.2
+Madagascar, MDG,97,1,4.5
+Malawi, MWI,92,3,4.7
+Malaysia, MYS,83,0,15.3
+Maldives, MDV,96,0,7.9
+Mali, MLI,61,3,7.1
+Malta, MLT,84,2,31
+Mauritania, MRT,71,2,11.3
+Mauritius, MUS,93,2,11.5
+Mexico, MEX,74,9,28.4
+Montenegro, MNE,77,1,24.9
+Morocco, MAR,90,2,25.6
+Mozambique, MOZ,88,1,6
+Myanmar, MMR,81,2,5.7
+Namibia, NAM,87,1,15
+Nepal, NPL,95,1,3.8
+New Zealand, NZL,96,1,32
+Nicaragua, NIC,71,3,21.8
+Niger, NER,55,3,4.7
+Nigeria, NGA,88,2,7.8
+North Macedonia, MKD,69,3,23.9
+Norway, NOR,81,1,25
+Oman, OMN,94,1,22.9
+Pakistan, PAK,89,2,7.8
+Panama, PAN,83,2,22.5
+Paraguay, PRY,71,2,19
+Peru, PER,93,4,19.1
+Philippines, PHL,92,2,6
+Poland, POL,77,2,25.6
+Portugal, PRT,79,2,23.2
+Republic of Moldova, MDA,87,2,20.1
+Romania, ROU,83,2,24.5
+Russian Federation, RUS,80,2,25.7
+Rwanda, RWA,87,1,4.8
+Saint Lucia, LCA,88,2,19.8
+Sao Tome and Principe, STP,94,2,10.6
+Saudi Arabia, SAU,97,2,35
+Senegal, SEN,94,2,7.4
+Serbia, SRB,11,1,23.5
+Sierra Leone, SLE,75,3,7.5
+Slovakia, SVK,72,1,22.4
+Slovenia, SVN,78,2,22.5
+South Africa, ZAF,87,3,27
+Sri Lanka, LKA,74,0,5.4
+Sudan, SDN,58,6,7.4
+Suriname, SUR,97,2,26.5
+Switzerland, CHE,78,2,21.2
+Tajikistan, TJK,96,1,12.6
+Thailand, THA,93,1,10.8
+Togo, TGO,87,2,7.1
+Trinidad and Tobago, TTO,92,2,19.7
+Tunisia, TUN,76,3,27.3
+Turkey, TUR,88,1,32.2
+Turkmenistan, TKM,96,1,17.5
+Uganda, UGA,35,1,4.1
+Ukraine, UKR,59,2,26.1
+United Arab Emirates, ARE,88,0,29.9
+United Republic of Tanzania, TZA,36,4,7.1
+United States of America, USA,58,2,37.3
+Uruguay, URY,65,1,28.9
+Uzbekistan, UZB,96,1,15.3
+Venezuela (Bolivarian Republic of), VEN,95,1,25.2
+Vietnam, VNM,90,2,2.1
+Yemen, YEM,66,29,14.1
+Zambia, ZMB,96,2,6.5
+Zimbabwe, ZWE,83,3,12.3
